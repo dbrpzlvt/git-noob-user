@@ -1,3 +1,3 @@
-# Git and Github Course
+# Git tutorial
 
-Crashcourse for Git 
+my first git readme file (or not...) 
